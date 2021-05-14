@@ -8,7 +8,7 @@ Jetzt gilt's. Sag an!
 
 > Ein Zitat
 
-Ein Link: https://twitter.com/GGDiode 
+Ein Link: https://twitter.com/GGDiode  
 Womöglich [so](https://twitter.com/GGDiode).
 
 Und 
@@ -16,13 +16,7 @@ Und
 - noch
 - was
 
-<details><summary>Klick hier</summary>
-  
-Da steht noch was.
-
-Wie schön.
-
-</details>
+keine `<details>` bitte.
 
 Und geht auch Code?
 
